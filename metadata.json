@@ -1,0 +1,6 @@
+{
+  "name": "Lumina AI",
+  "description": "A high-performance AI studio featuring real-time chat and creative image generation, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
