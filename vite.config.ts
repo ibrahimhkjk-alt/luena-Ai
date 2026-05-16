@@ -9,7 +9,7 @@ export default defineConfig(({mode}) => {
     base: '/luena-Ai/',
     plugins: [react(), tailwindcss()],
     define: {
-      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
+      'process.env.GEMINI_API_KEY': JSON.stringify(env.AIzaSyA7Gl7JRapsxdiUz_5PGO9zkhUoYI0RFXM),
     },
     resolve: {
       alias: {
